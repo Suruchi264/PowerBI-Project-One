@@ -10,3 +10,7 @@
 6) Total number of orders.
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
 8) Show sales by different cities.
+
+
+# THE DATASET USED :- 
+"Store+Data.xlsx" , it is uploaded above.
