@@ -3,7 +3,7 @@
 # BUSINESS REQUIREMENTS 
 
 1) Top/Bottom 5 product by Sales/Profit/Quantity Sold.
-2) 2) How do sales trends vary over time (daily, monthly, quarterly, annually) ?
+2) How do sales trends vary over time (daily, monthly, quarterly, annually) ?
 3) Show relationship between sales & profit.
 4) Compare sales/profit/quantity sold between any two periods selected by the user.
 5) Average discount offered in each discount category.
